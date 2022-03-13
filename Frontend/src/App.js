@@ -36,7 +36,7 @@ function App() {
         ></Editor>
         <div className='code-output-window'>
           <div className='code-output-window-title'>Code Output Window</div>
-          <div className='code-output-window-results'> >>Hello World</div>
+          <div className='code-output-window-results'> Hello World</div>
         </div>
       </div>
     </div>
